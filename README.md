@@ -40,7 +40,7 @@
 1. <b>📚 Importing Libraries:</b> - To perform <b>Data Manipulation,Visualization & Model Building.</b><br>    
 2. <b>⏳ Loading Dataset:</b> - Load the dataset into a <b>suitable data structure using pandas.</b><br>
 3. <b>🧠 Basic Understaning of Data:</b> - Generate basic informations about the data.<br>
-4. <b>🧹 Data Preprocessing Part-1:</b> - To <b>clean, transform, and restructure</b> the data in order to make it suitable for analysis.<br>
+4. <b>🧹 Data Preprocessing Part-1:</b> - To <b>clean, transform, and restructure</b> the data for suitable analysis.<br>
 5. <b>📊 Exploatory Data Analysis:</b> -  To  identify <b>trends, patterns, and relationships</b> among the variabels.<br>
 6. <b>📈 Feature Engineering:</b> -  To create <b>new relevant features</b> for model building.<br>
 7. <b>⚙️ Data Preprocessing Part-2:</b> - To transform data for creating more accurate & robust model.<br>
