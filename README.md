@@ -1,7 +1,7 @@
 <div align="center">
   
-# ✨ House Price Prediction ✨       
-</div>
+# ✨ House Price Prediction ✨        
+</div> 
 
 <h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;">
     <span style="color: #008080;"> Author:</span> 
