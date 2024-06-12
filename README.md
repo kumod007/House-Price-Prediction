@@ -3,7 +3,7 @@
 # ✨ House Price Prediction ✨                        
 </div> 
 
-<h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;"> 
+<h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;">  
     <span style="color: #008080;"> Author:</span> 
     <span style="color: black;">Kumod Sharma .</span>
 </h3>
